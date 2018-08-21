@@ -1,6 +1,4 @@
-[root@sd4225 scripts]# cat rastreator.sh
 #!/bin/bash
-
 # Este script obtiene un reporte de ficheros y directorios sospechosos por su nombre
 
 # patterns file
