@@ -1,4 +1,3 @@
-[root@sd4225 scripts]# cat backups.sh
 #!/bin/bash
 
 ####  FUNCIONES
